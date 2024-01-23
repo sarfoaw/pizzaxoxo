@@ -1,0 +1,19 @@
+.navcolor{
+    background-color: darkred;
+}
+
+body{
+   background-image: url(bacground\ image.avif);
+}
+#footer{
+    background-color: darkred;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
